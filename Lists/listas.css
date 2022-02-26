@@ -1,0 +1,6 @@
+*{font-size: 14px; margin: 0px; padding: 0px; line-height: 1.5em;}
+body {}
+ul,ol{margin-left: 100px; }
+
+ul li a{color: red;}
+.meuslinks{color: palevioletred;}
