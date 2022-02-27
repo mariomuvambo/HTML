@@ -1,5 +1,6 @@
 body{
     background-color: blue;
+    background-image: url("R.png");
     text-align: center;
     padding: 40px;
 }
