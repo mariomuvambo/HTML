@@ -1,0 +1,31 @@
+body{
+    background-color: blue;
+    text-align: center;
+    padding: 40px;
+}
+#primeiroid{
+    color: tomato;
+}
+#segundoid{
+    color: springgreen;
+}
+#terceiroid{
+    color: white;
+}
+.primeiro{
+    text-align: left;
+}
+.segundo{
+    text-align: justify;
+}
+.terceiro{
+    text-align: right;
+}
+h2{color: yellow; text-align: left;}  
+
+header h2{
+    color: black;
+}
+main h2{
+    color: blueviolet;
+}
