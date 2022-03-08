@@ -1,2 +1,2 @@
 # HTML
- Apredendo html com Varios tutoriais 
+ Apredendo html com Vários tutoriais 
