@@ -1,0 +1,62 @@
+body{
+    /* width: 70%; */
+    /* padding-left: 200px; */
+
+}
+
+
+header table ,th,td,tr{
+    padding-left: 50px;
+    font-size: 14px;
+    text-align: justify;
+}
+
+img{
+    width: 100px;
+    position: absolute;
+    left: 460px;
+    
+}
+.subtitulo{
+    background-color: green;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    position: absolute;
+    top: 100px;
+    width: 600px;
+    padding: 8px;
+}
+.one{
+    padding-left: 2em;
+}
+.subtitulo1{
+    background-color: grey;
+    border: 1px solid; 
+    border-width: 0px 0px 1px 0px;
+    padding-right:500px;
+}
+.sub{
+    padding: 2em;
+    
+}
+#paragraf{
+    padding-left: 4em;
+}
+#paragraf1{
+    padding-left: 3em;
+}
+
+.tabela2{
+    display: block;
+}
+
+main table {
+    border: 1px solid;
+    /* text-align: center; */
+    border-collapse: collapse;
+
+}
+main td {
+    border: 1px solid;
+}
