@@ -51,12 +51,11 @@ img{
     display: block;
 }
 
-main table {
+ main table,tr {
     border: 1px solid;
-    /* text-align: center; */
     border-collapse: collapse;
-
-}
-main td {
+} 
+.divi,td{
     border: 1px solid;
+    /* display: inline; */
 }
