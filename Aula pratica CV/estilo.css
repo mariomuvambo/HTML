@@ -52,10 +52,12 @@ img{
 }
 
  main table,tr {
+
     border: 1px solid;
     border-collapse: collapse;
 } 
-.divi,td{
+main td{
+
     border: 1px solid;
     /* display: inline; */
 }
